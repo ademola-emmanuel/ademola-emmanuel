@@ -86,9 +86,6 @@ Professional software developer with over 5 years of experience, possessing a st
 - **[Implementing Custom Login Functionality in Laravel Using a Custom Table](https://medium.com/@ademola.emmanuel383/implementing-custom-login-functionality-in-laravel-using-a-custom-table-5fe32ad3bef9)**
 - **[Building and Deploying a Golang-based Timer Trigger with Azure Functions](https://medium.com/@ademola.emmanuel383/building-and-deploying-a-golang-based-timer-trigger-with-azure-functions-2f67d927dad1)**
 
-## 📈 GITHUB STATS
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ademola-emmanuel&show_icons=true&theme=radical)
-
 ## ☎ CONTACT
 - **Email**: [ademola.emmanuel383@gmail.com](mailto:ademola.emmanuel383@gmail.com)
 - **LinkedIn**: [Emmanuel Ademola](https://www.linkedin.com/in/ademola-emmanuel/)
