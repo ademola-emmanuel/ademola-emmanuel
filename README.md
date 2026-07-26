@@ -1,93 +1,114 @@
 ![ademola emmanuel banner](https://github.com/user-attachments/assets/54020e47-9452-47d2-a7ab-31b5bf86502f)
 
-# Hi, My name is Emmanuel Tosin Ademola
+# Hi, I'm Emmanuel Tosin Ademola
 
-Professional software developer with over 10 years of experience, possessing a strong foundation in a variety of technologies including GOLANG, PHP, HTML, CSS, JAVASCRIPT, LARAVEL, PYTHON, MOODLE and WORDPRESS. Passionate about creating high-quality, scalable web applications with a proven track record of success on projects of varying scales, spanning both front-end and back-end development.
+Software engineer with over 10 years of experience, based in Bolton, United Kingdom. I build backend systems and APIs across workforce management, utilities, healthcare analytics and education, working mainly in **PHP/Laravel**, **Python** and **Go**.
 
-## 🔹 TECHNICAL PROFICIENCY
+Most of my work sits in the unglamorous parts of engineering: domain-driven design, clean API contracts, and making slow systems fast.
 
-### PLANNING & REQUIREMENTS GATHERING
+I'm also a **speaker**, the author of [dttools](https://github.com/ademola-emmanuel/dttools), and a contributor to the Laravel open source ecosystem.
 
-#### Requirement Engineering: 
-- Miro, MS Packages (Word, Excel, PowerPoint, SharePoint), Google Doc
+---
 
-#### System Design and Architecture
-- Bizagi Modeller, Microsoft Visio, Draw.io
+## 🔹 Open Source Contributions
+
+Contributions to first-party Laravel packages and the wider PHP ecosystem.
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| **[laravel/horizon](https://github.com/laravel/horizon)** | [#1801](https://github.com/laravel/horizon/pull/1801) — Fixed `horizon:clear-metrics` silently clearing nothing on phpredis 6.1+, where an integer SCAN cursor caused the loop to exit before deleting any keys. Unbounded Redis growth for affected apps. | ✅ Merged |
+| **[laravel/boost](https://github.com/laravel/boost)** | [#894](https://github.com/laravel/boost/pull/894) — Closed a read-only bypass in the `DatabaseQuery` MCP tool that allowed writes via data-modifying CTEs, `EXPLAIN ANALYZE`, and `INTO`. | 🔍 Open |
+| **[laravel/ai](https://github.com/laravel/ai)** | [#832](https://github.com/laravel/ai/pull/832) — Fixed colliding embeddings cache keys, where distinct input batches could be served each other's vectors. | 🔍 Open |
+| **[spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)** | [#1467](https://github.com/spatie/laravel-activitylog/pull/1467) — Corrected the package homepage, which pointed at an archived predecessor repository. | 🔍 Open |
+
+## 🔹 Projects
+
+**[dttools](https://github.com/ademola-emmanuel/dttools)** · [PyPI](https://pypi.org/project/dttools/)
+A Python library for common date and time manipulations. Published to PyPI with approximately 5,000 downloads.
+
+## 🔹 Technical Proficiency
+
+#### Languages
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Workbench" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="Unified modeling language" width="30" height="30"/>
-</p>
-
-### DEVELOPMENT TOOLS
-
-#### Programming Languages:
-
-<p align="left">
-<!--   <!--<img src="https://camo.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="30" height="30"/> -->
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/goland/goland-original.svg" alt="Go" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="PYTHON" width="30" height="30"/>
-  <img src="https://camo.githubusercontent.com/dc85e28b97f0d1fd4b76ce7f5229a76c4894ecb7e0348d36866a5fc335924387/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d706c6173746963266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
-  <!-- Add more icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
 </p>
 
-#### Web Development:
+#### Backend and APIs
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/livewire/livewire-original.svg" alt="LIVEWIRE" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue JS" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML and HTML 5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="OpenAPI Specification" width="30" height="30"/>
+</p>
+
+Domain-driven design · modular monoliths · microservices · event-driven integration · REST and WebSockets
+
+#### Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/livewire/livewire-original.svg" alt="Livewire" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="Alpine.js" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="30" height="30"/>
-  <!-- Add more icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
 </p>
 
-#### Database Management:
+#### Data
 
 <p align="left">
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL SERVER" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="30" height="30"/>
-  <!-- Add more icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="30" height="30"/>
 </p>
 
-#### Testing Tools:
+#### Platform and Delivery
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-original.svg" alt="MOCHA" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="PYTEST" width="30" height="30"/>
-  <!-- Add more icons as needed -->
-</p>
-
-#### Collaboration Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" width="30" height="30"/>
-  <!-- Add more icons as needed -->
-</p>
-
-#### Others:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="Open API Specification" width="30" height="30"/>
-  <!-- Add more icons as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30" height="30"/>
 </p>
 
-## 🔹 TECHNICAL ARTICLES
+#### Testing
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" alt="Mocha" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="30" height="30"/>
+</p>
+
+#### Design and Modelling
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" alt="Unified Modeling Language" width="30" height="30"/>
+</p>
+
+Bizagi Modeller · Microsoft Visio · Draw.io · Miro
+
+## 🔹 Technical Articles
+
 - **[Implementing Custom Login Functionality in Laravel Using a Custom Table](https://medium.com/@ademola.emmanuel383/implementing-custom-login-functionality-in-laravel-using-a-custom-table-5fe32ad3bef9)**
 - **[Building and Deploying a Golang-based Timer Trigger with Azure Functions](https://medium.com/@ademola.emmanuel383/building-and-deploying-a-golang-based-timer-trigger-with-azure-functions-2f67d927dad1)**
 
-## ☎ CONTACT
+More on [Medium](https://medium.com/@ademola.emmanuel383).
+
+## ☎ Contact
+
 - **Email**: [ademola.emmanuel383@gmail.com](mailto:ademola.emmanuel383@gmail.com)
 - **LinkedIn**: [Emmanuel Ademola](https://www.linkedin.com/in/ademola-emmanuel/)
-
-
+- **Medium**: [@ademola.emmanuel383](https://medium.com/@ademola.emmanuel383)
