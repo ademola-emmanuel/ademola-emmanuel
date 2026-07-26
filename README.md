@@ -12,14 +12,16 @@ I'm also a **speaker**, the author of [dttools](https://github.com/ademola-emman
 
 ## 🔹 Open Source Contributions
 
-Contributions to first-party Laravel packages and the wider PHP ecosystem.
+Merged pull requests to Laravel and the wider PHP ecosystem.
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| **[laravel/horizon](https://github.com/laravel/horizon)** | [#1801](https://github.com/laravel/horizon/pull/1801) — Fixed `horizon:clear-metrics` silently clearing nothing on phpredis 6.1+, where an integer SCAN cursor caused the loop to exit before deleting any keys. Unbounded Redis growth for affected apps. | ✅ Merged |
-| **[laravel/boost](https://github.com/laravel/boost)** | [#894](https://github.com/laravel/boost/pull/894) — Closed a read-only bypass in the `DatabaseQuery` MCP tool that allowed writes via data-modifying CTEs, `EXPLAIN ANALYZE`, and `INTO`. | 🔍 Open |
-| **[laravel/ai](https://github.com/laravel/ai)** | [#832](https://github.com/laravel/ai/pull/832) — Fixed colliding embeddings cache keys, where distinct input batches could be served each other's vectors. | 🔍 Open |
-| **[spatie/laravel-activitylog](https://github.com/spatie/laravel-activitylog)** | [#1467](https://github.com/spatie/laravel-activitylog/pull/1467) — Corrected the package homepage, which pointed at an archived predecessor repository. | 🔍 Open |
+<!-- OSS-CONTRIBUTIONS:START -->
+
+| Project | Contribution |
+| --- | --- |
+| **[laravel/horizon](https://github.com/laravel/horizon)** | [#1801](https://github.com/laravel/horizon/pull/1801) Fix `horizon:clear-metrics` clearing nothing on phpredis 6.1+ |
+| **[vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)** | [#647](https://github.com/vyuldashev/laravel-queue-rabbitmq/pull/647) Fix typo in Default Queue section |
+
+<!-- OSS-CONTRIBUTIONS:END -->
 
 ## 🔹 Projects
 
