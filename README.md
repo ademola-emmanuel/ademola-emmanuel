@@ -2,7 +2,7 @@
 
 # Hi, My name is Emmanuel Tosin Ademola
 
-Professional software developer with over 5 years of experience, possessing a strong foundation in a variety of technologies including GOLANG, PHP, HTML, CSS, JAVASCRIPT, LARAVEL, PYTHON, MOODLE and WORDPRESS. Passionate about creating high-quality, scalable web applications with a proven track record of success on projects of varying scales, spanning both front-end and back-end development.
+Professional software developer with over 10 years of experience, possessing a strong foundation in a variety of technologies including GOLANG, PHP, HTML, CSS, JAVASCRIPT, LARAVEL, PYTHON, MOODLE and WORDPRESS. Passionate about creating high-quality, scalable web applications with a proven track record of success on projects of varying scales, spanning both front-end and back-end development.
 
 ## 🔹 TECHNICAL PROFICIENCY
 
