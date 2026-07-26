@@ -111,6 +111,5 @@ More on [Medium](https://medium.com/@ademola.emmanuel383).
 
 ## ☎ Contact
 
-- **Email**: [ademola.emmanuel383@gmail.com](mailto:ademola.emmanuel383@gmail.com)
 - **LinkedIn**: [Emmanuel Ademola](https://www.linkedin.com/in/ademola-emmanuel/)
 - **Medium**: [@ademola.emmanuel383](https://medium.com/@ademola.emmanuel383)
