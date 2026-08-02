@@ -20,6 +20,7 @@ Merged pull requests to Laravel and the wider PHP ecosystem.
 | --- | --- |
 | **[laravel/horizon](https://github.com/laravel/horizon)** | [#1801](https://github.com/laravel/horizon/pull/1801) Fix `horizon:clear-metrics` clearing nothing on phpredis 6.1+ |
 | **[vyuldashev/laravel-queue-rabbitmq](https://github.com/vyuldashev/laravel-queue-rabbitmq)** | [#647](https://github.com/vyuldashev/laravel-queue-rabbitmq/pull/647) Fix typo in Default Queue section |
+| **[laravel/ai](https://github.com/laravel/ai)** | [#832](https://github.com/laravel/ai/pull/832) Fix colliding embeddings cache keys for distinct string batches |
 
 <!-- OSS-CONTRIBUTIONS:END -->
 
